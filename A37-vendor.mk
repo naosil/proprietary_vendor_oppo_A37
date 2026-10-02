@@ -404,7 +404,6 @@ PRODUCT_COPY_FILES += \
     vendor/oppo/A37/proprietary/vendor/lib64/vendor.qti.hardware.vpp@1.1_vendor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.vpp@1.1_vendor.so
 
 PRODUCT_PACKAGES += \
-    libtime_genoff \
     libloc_api_v02 \
     libloc_ds_api \
     qcrilmsgtunnel \
